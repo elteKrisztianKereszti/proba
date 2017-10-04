@@ -1,0 +1,7 @@
+hu\elte\alkfejl\issuetracker\Application.class
+hu\elte\alkfejl\issuetracker\controller\UserController.class
+hu\elte\alkfejl\issuetracker\model\BaseEntity.class
+hu\elte\alkfejl\issuetracker\repository\UserRepository.class
+hu\elte\alkfejl\issuetracker\service\UserService.class
+hu\elte\alkfejl\issuetracker\model\User$Role.class
+hu\elte\alkfejl\issuetracker\model\User.class
